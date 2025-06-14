@@ -3,7 +3,7 @@ title: "Welcome"
 weight: 1
 ---
 
-<img src="/images/tom-profile-web-crop.jpg" alt="tomreilly" style="max-width:100%; height:auto;">
+![tomreilly)](/images/tom-profile-web-crop.jpg)
 
 Hi, I’m Thomas Reilly — but you can call me Tom. I’m an experienced Systems Administrator based in Australia, with over a decade of hands-on expertise managing complex IT environments, from on-premise infrastructure to cloud-based solutions. I thrive on designing, implementing, and supporting resilient, secure, and efficient systems that empower organisations and their people.
 
