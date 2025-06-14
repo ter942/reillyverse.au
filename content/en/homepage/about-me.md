@@ -33,5 +33,5 @@ efficiency in modern IT environments
     -  My portfolio is available to view [HERE](https://www.flickr.com/photos/treillys-photos/)
 - Managing a homelab with home automation and media servers (recently migrated from vSphere to Proxmox)  
 - AeroPress enthusiast  
-- This Website!
+- This Website! - Learning some Hugo and Netlify
 
