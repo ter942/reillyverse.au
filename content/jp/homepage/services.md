@@ -6,6 +6,9 @@ weight: 2
 header_menu: true
 ---
 
+履歴書は英語セクションをご覧ください。
+
+<!-- 
 Feature notice: This section displays options to customize title:
 
 - has a normal section title (`title` = "The Services I Offer"),
@@ -27,4 +30,4 @@ I can raise your table culture!
 
 ![Let us get started on a clean slate](/images/woman-pouring-juice-on-glass-3184192.jpg)
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+Want to learn more about my services? See [dedicated page](services) with more details. -->

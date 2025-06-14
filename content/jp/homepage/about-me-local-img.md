@@ -1,5 +1,5 @@
 ---
-title: ”私について"
+title: 私について
 weight: 3
 header_menu: true
 ---

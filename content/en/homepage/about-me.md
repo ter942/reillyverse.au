@@ -9,13 +9,28 @@ Neither embedded figure shortcode, nor Markdown hook were able to render image f
 You would have to .Resouces.GetMatch via custom shortcode.
 ![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
 -->
-![Jane Doe](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-See DE language for more examples of image management. There are multiple approaches.
+![tomreilly)](/images/tom-profile-web-crop.jpg)
+_Thomas Reilly_
+
 
 ##### Professional Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Experienced Systems Administrator with over 9 years of experience in managing
+cloud and on-premise infrastructure. Skilled in enterprise IT integration, data centre
+operations, user support, and automation. Proven success in optimising systems
+post-acquisition, implementing scalable SOE deployments, and supporting robust
+backup and disaster recovery solutions. Committed to driving innovation and
+efficiency in modern IT environments
 
 ----
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+##### Hobbies
+
+![planeweb)](/images/plane_web.png)
+
+- Casually learning Japanese  
+- Photography - Wildlife, Urban and Aircraft
+- Managing a homelab with home automation and media servers (recently migrated from vSphere to Proxmox)  
+- AeroPress enthusiast  
+- This Website!
+
