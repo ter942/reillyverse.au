@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Über mich (shared folder)"
 weight: 3
 header_menu: true
@@ -29,4 +29,4 @@ Historically, Linking image from `assets` folder worked only via Hugo-specific s
 
 Note that using images form assets folder is the only way to apply pipeline processing, such as resizing, when building the site. Fore more details, read about [asset vs static difference](https://discourse.gohugo.io/t/difference-between-asset-and-static-folder/41203)
 
-Assets are only published if linked from a content page.
+Assets are only published if linked from a content page. -->

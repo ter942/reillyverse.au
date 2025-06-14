@@ -54,6 +54,8 @@
 
   <meta itemprop="name" content="Thomas Reilly - Experienced Sysadmin & Network Engineer">
   <meta itemprop="description" content="Thomas Reilly - Experienced Sysadmin &amp; Network Engineer">
+  <meta itemprop="datePublished" content="2025-06-14T20:42:30+10:00">
+  <meta itemprop="dateModified" content="2025-06-14T20:42:30+10:00">
   <meta itemprop="image" content="http://localhost:1313/images/cover-image.jpg">
 
 
@@ -126,12 +128,12 @@
   
 
         <div id="site-head-content" class="inner">
-	    <img id="blog-logo" alt="" src="/images/chef-hat.png" />
+	    <img id="blog-logo" alt="" src="/images/reillyverse.png" />
 
-            
+            <div class="title-and-description-guard">
               <h1 class="blog-title">Thomas Reilly</h1>
               <h2 class="blog-description"><b>Experienced</b> Sysadmin & <b>Network Engineer</b></h2>
-            
+            </div>
 
             
               
@@ -155,14 +157,6 @@
 
               
                 
-                 <a class='btn site-menu' data-title-anchor='über-mich-shared-folder' href='#%c3%bcber-mich-shared-folder'>Über mich (shared folder)</a>
-              
-            
-              
-              
-
-              
-                
                  <a class='btn site-menu' data-title-anchor='contact' href='#contact'>Contact</a>
               
             
@@ -179,13 +173,6 @@
               
                 
                  <a class='btn site-menu' data-title-anchor='credits' href='#credits'>Credits</a>
-              
-            
-              
-              
-
-              
-                 <a class='btn site-menu' href='https://github.com/zjedi/hugo-scroll'>GitHub&nbsp;<i class="fa fa-external-link"></i></a>
               
             
 
@@ -216,24 +203,28 @@
             
         
             
-            <a class='fn-item' item_index='4' href='#%c3%bcber-mich-shared-folder'>Über mich (shared folder)</a>
+            <a class='fn-item' item_index='4' href='#contact'>Contact</a>
             
         
             
-            <a class='fn-item' item_index='5' href='#contact'>Contact</a>
+            <a class='fn-item' item_index='5' href='#legal-stuff'>Legal stuff</a>
             
         
             
-            <a class='fn-item' item_index='6' href='#legal-stuff'>Legal stuff</a>
+            <a class='fn-item' item_index='6' href='#credits'>Credits</a>
             
         
             
-            <a class='fn-item' item_index='7' href='#credits'>Credits</a>
+            <a class='fn-item' item_index='7' href='#'></a>
+            
+        
+            
+            <a class='fn-item' item_index='8' href='#'></a>
             
         
         
             
-            <a class='fn-item' item_index='8' href='./#site-head'>Return To Top</a>
+            <a class='fn-item' item_index='9' href='./#site-head'>Return To Top</a>
         
     </div>
 
@@ -334,27 +325,20 @@ See DE language for more examples of image management. There are multiple approa
         
         
         <div class='post-holder dark'>
-            <article id='über-mich-shared-folder' class='post  '>
+            <article id='contact' class='post  '>
                 <header class="post-header">
-                    <h2 class="post-title">Über mich (shared folder)</h2>
+                    <h2 class="post-title">Contact</h2>
                 </header>
                 <section class="post-content">
-                    <p>This demonstates localized variants <code>about-me.de.md</code> placed along the primary language content, such as <code>content/en</code>. Both localisation approaches (separate folder, suffixes in the same folder) can be used and mixed.</p>
-<h4 id="local-content">Local content</h4>
-<p>When localised page variants are placed along, images of other languages can&rsquo;t be used directly. You would need to use <code>.de</code>-suffixed copy of the image: <code>![Jane Doe](en-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.de.jpg)</code>
-Consider using assets instead.</p>
-<p>Images from local content location can&rsquo;t be pipeline-processed.</p>
-<h4 id="static">Static</h4>
-<p>Alternatively, images can be injected from <code>static/images</code>:
-<img src="/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg" alt="Jane Doe">
-Note the leading <code>/</code> is required in this case.
-Images from static location can&rsquo;t be pipeline-processed and are always copied when publishing the site, even if not linked from any page.</p>
-<h4 id="assets">Assets</h4>
-<p>Latest Hugo version supports injection from <code>assets</code> via natural Markdown notation, which empowers this approach for injecting images since pipeline processing (resizing etc) can be used. However, It only worked for me with the local test deployment, there were issues while deploying previews Netlify. Possible workaround would be to use custom shortcode to &ldquo;touch&rdquo; the image via <a href="https://gohugo.io/functions/resources/getmatch/">Resources.GetMatch</a>. I hope this gets fixed someday.</p>
-<p><img src="/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg" alt="Broken image from assets">
-Historically, Linking image from <code>assets</code> folder worked only via Hugo-specific shortcode, there was <a href="https://discourse.gohugo.io/t/how-to-show-images-on-post-pages-if-theyre-located-in-the-assets-folder/34276/14">a discussion with suggestions</a>.</p>
-<p>Note that using images form assets folder is the only way to apply pipeline processing, such as resizing, when building the site. Fore more details, read about <a href="https://discourse.gohugo.io/t/difference-between-asset-and-static-folder/41203">asset vs static difference</a></p>
-<p>Assets are only published if linked from a content page.</p>
+                    
+    <p><i class="fa fa-phone"></i>&nbsp;<a href="tel:&#43;49%201111%20555555">&#43;49 1111 555555</a></p>
+
+    <p><i class="fa fa-envelope"></i>&nbsp;<a href="mailto:ter@tomreilly.net">ter@tomreilly.net</a></p>
+
+    <p><i class="fa-brands fa-github"></i>&nbsp;<a href="https://github.com/zjedi/hugo-scroll">github.com/zjedi/hugo-scroll</a></p>
+
+
+<p>Let us get in touch!</p>
 
                 </section>
             </article>
@@ -365,30 +349,6 @@ Historically, Linking image from <code>assets</code> folder worked only via Hugo
         
         
         <div class='post-holder'>
-            <article id='contact' class='post  '>
-                <header class="post-header">
-                    <h2 class="post-title">Contact</h2>
-                </header>
-                <section class="post-content">
-                    
-    <p><i class="fa fa-phone"></i>&nbsp;<a href="tel:&#43;49%201111%20555555">&#43;49 1111 555555</a></p>
-
-    <p><i class="fa fa-envelope"></i>&nbsp;<a href="mailto:mail@janedoe.com">mail@janedoe.com</a></p>
-
-    <p><i class="fa-brands fa-github"></i>&nbsp;<a href="https://github.com/zjedi/hugo-scroll">github.com/zjedi/hugo-scroll</a></p>
-
-
-<p>Let us get in touch!</p>
-
-                </section>
-            </article>
-            <div class='post-after light'></div>
-        </div>
-        
-    
-        
-        
-        <div class='post-holder dark'>
             <article id='legal-stuff' class='post  '>
                 <header class="post-header">
                     <h2 class="post-title">Brief Legal Information</h2>
@@ -401,14 +361,14 @@ Historically, Linking image from <code>assets</code> folder worked only via Hugo
 
                 </section>
             </article>
-            <div class='post-after'></div>
+            <div class='post-after light'></div>
         </div>
         
     
         
         
-        <div class='post-holder'>
-            <article id='credits' class='post  last'>
+        <div class='post-holder dark'>
+            <article id='credits' class='post  '>
                 <header class="post-header">
                     <h2 class="post-title">Credits</h2>
                 </header>
@@ -427,8 +387,12 @@ Historically, Linking image from <code>assets</code> folder worked only via Hugo
 
                 </section>
             </article>
-            <div class='post-after light'></div>
+            <div class='post-after'></div>
         </div>
+        
+    
+        
+    
         
     
 </main>
