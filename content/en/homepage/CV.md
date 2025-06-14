@@ -1,4 +1,3 @@
-<!-- 
 ---
 title: "Curriculum Vitae"
 header_menu_title: "CV"
