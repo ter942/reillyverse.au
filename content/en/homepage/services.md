@@ -1,7 +1,7 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Curriculum Vitae"
+header_menu_title: "CV"
+navigation_menu_title: "CV"
 weight: 2
 header_menu: true
 ---
