@@ -1,7 +1,7 @@
 ---
-title: "Das biete ich an"
-header_menu_title: "Angebot"
-navigation_menu_title: "Mein Angebot"
+title: "CV"
+header_menu_title: "CV"
+navigation_menu_title: "CV"
 weight: 2
 header_menu: true
 ---

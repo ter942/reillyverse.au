@@ -109,6 +109,11 @@ enableEmoji = true
     weight = 10
     languageName = "English"
     contentDir = "content/en"
+  [languages.jp]
+    weight = 10
+    languageName = "日本語"
+    contentDir = "content/jp"
+
 
 #  [languages.de]
 #    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
