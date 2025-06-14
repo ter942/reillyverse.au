@@ -39,14 +39,14 @@ If you want to use these branded icons in your contact list, use the full class 
   icon = "fa-brands fa-github"
 ```
 
-### Nutrition Coaching
+### Sysadmin
 
 This is not an easy task.
 You will likely have to pay money for this.
 
-### Chef Consulting
+### Network Design
 
-I can raise your table culture!
+I can raise your Network!
 
 ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
 
