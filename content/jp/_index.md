@@ -15,6 +15,6 @@ header_subheadline: "<b>システム管理者</b>"
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: "Nach oben"
+nav_to_top_title: "Top"
 nav_to_top_weight: last
 ---

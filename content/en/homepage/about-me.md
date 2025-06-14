@@ -30,6 +30,7 @@ efficiency in modern IT environments
 
 - Casually learning Japanese  
 - Photography - Wildlife, Urban and Aircraft
+    -  My portfolio is available to view [HERE](https://www.flickr.com/photos/treillys-photos/)
 - Managing a homelab with home automation and media servers (recently migrated from vSphere to Proxmox)  
 - AeroPress enthusiast  
 - This Website!
