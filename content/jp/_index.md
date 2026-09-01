@@ -10,7 +10,7 @@ header_logo: "images/reillyverse.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "トマス ライリー"
-header_subheadline: "<b>ネットワーク管理者</b> @ エプソンオーストラリア"
+header_subheadline: "<b>ネットワーク管理者</b> @ エプソン・オーストラリア"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
