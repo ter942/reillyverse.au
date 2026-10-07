@@ -27,9 +27,10 @@ This site is automatically deployed from this repository using Netlify’s CI/CD
 ## 📂 Structure
 
 - `content/` — markdown content files.
-- `static/` — images and static assets.
+- `assets/` — images processed by Hugo (header, favicons).
+- `static/` — images copied as-is.
 - `themes/` — site theme (Hugo-Scroll).
-- `config.toml` — site configuration.
+- `hugo.toml` — site configuration.
 
 ## ✨ Features
 
@@ -41,7 +42,3 @@ This site is automatically deployed from this repository using Netlify’s CI/CD
 ## 🤝 Contributions
 
 This is a personal project, but feel free to submit an issue or suggestion if you find something to improve!
-
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
