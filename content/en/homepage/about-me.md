@@ -4,14 +4,8 @@ weight: 3
 header_menu: true
 ---
 
-<!-- 
-Neither embedded figure shortcode, nor Markdown hook were able to render image from asset. 
-You would have to .Resouces.GetMatch via custom shortcode.
-![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
--->
-![tomreilly)](/images/tom-profile-web-crop.jpg)
+![Thomas Reilly](/images/tom-profile-web-crop.jpg)
 _Thomas Reilly_
-
 
 ##### Professional Experience
 
@@ -21,7 +15,7 @@ Currently working as a Network Administrator at **Epson Australia**. Experienced
 
 ##### Hobbies
 
-![planeweb)](/images/plane_web.png)
+![Aircraft photo](/images/plane_web.png)
 
 - Casually learning Japanese  
 - Photography - Wildlife, Urban and Aircraft
@@ -29,4 +23,3 @@ Currently working as a Network Administrator at **Epson Australia**. Experienced
 - Managing a homelab with home automation and media servers (recently migrated from vSphere to Proxmox)  
 - AeroPress enthusiast  
 - This Website! - Learning some Hugo and Netlify
-
