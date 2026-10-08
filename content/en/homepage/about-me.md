@@ -9,7 +9,7 @@ _Thomas Reilly_
 
 ##### Professional Experience
 
-Currently working as a Network Administrator at **Epson Australia**. Experienced Systems Administrator with over 9 years of experience managing cloud and on-premise infrastructure. Skilled in enterprise IT integration, data centre operations, user support, and automation. Proven success in optimising systems post-acquisition, implementing scalable SOE deployments, and supporting robust backup and disaster recovery solutions. Committed to driving innovation and efficiency in modern IT environments.
+Currently working as a Network Administrator at **Epson Australia**. Experienced Systems Administrator with over a decade of experience managing cloud and on-premise infrastructure. Skilled in enterprise IT integration, data centre operations, user support, and automation. Proven success in optimising systems post-acquisition, implementing scalable SOE deployments, and supporting robust backup and disaster recovery solutions. Committed to driving innovation and efficiency in modern IT environments.
 
 ----
 
