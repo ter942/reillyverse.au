@@ -1,0 +1,8 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  # Extended edition is required: the theme's SCSS is compiled at build time.
+  # Netlify installs the extended edition by default.
+  HUGO_VERSION = "0.147.8"
