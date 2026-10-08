@@ -8,7 +8,7 @@ This is a [Hugo](https://gohugo.io/) static site using the [hugo-scroll](https:/
 
 | Tool | Version | Install |
 |------|---------|---------|
-| Hugo (extended) | Latest | `brew install hugo` |
+| Hugo (extended) | 0.147.8 (pinned in `netlify.toml`) | `brew install hugo` |
 | Git | Any modern | pre-installed on macOS |
 
 > **Extended** edition is required because the theme uses SCSS. Verify you have the right edition with `hugo version` — the output should include `extended`.
@@ -79,7 +79,7 @@ Output is written to `public/`. This is handled automatically by Netlify — you
 
 ## 6. Deployment
 
-Netlify watches the `main` branch. Any push triggers a build and deploy automatically — no manual steps required. There is no `netlify.toml` in the repo, so the build command (`hugo`) and publish directory (`public`) must be configured in the Netlify dashboard.
+Netlify watches the `main` branch. Any push triggers a build and deploy automatically — no manual steps required. The build command (`hugo`), publish directory (`public`) and Hugo version are set in `netlify.toml`, which overrides the Netlify dashboard settings.
 
 ---
 
